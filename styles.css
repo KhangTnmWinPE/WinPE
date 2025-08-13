@@ -7,6 +7,10 @@ body {
     vertical-align: middle;
 }
 
+a{
+    cursor: pointer;
+}
+
 .header_title{
     font-weight:bold;
     font-size: 40px;
